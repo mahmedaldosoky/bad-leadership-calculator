@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/bad-leadership-calculator/static/css/main.4d8c65ec.css",
+    "main.js": "/bad-leadership-calculator/static/js/main.417aa7be.js",
+    "static/media/Globa-Medium.otf": "/bad-leadership-calculator/static/media/Globa-Medium.3d4dabc72889c07bec52.otf",
+    "index.html": "/bad-leadership-calculator/index.html",
+    "main.4d8c65ec.css.map": "/bad-leadership-calculator/static/css/main.4d8c65ec.css.map",
+    "main.417aa7be.js.map": "/bad-leadership-calculator/static/js/main.417aa7be.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d8c65ec.css",
+    "static/js/main.417aa7be.js"
+  ]
+}
