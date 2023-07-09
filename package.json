@@ -1,6 +1,6 @@
 {
   "name": "bad-leadership-calculator",
-  "homepage": "https://mahmedaldosoky.github.io/bad-leadership-calculator",
+  "homepage": ".",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

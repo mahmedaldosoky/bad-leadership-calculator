@@ -8,7 +8,7 @@ const Chart = (props) => {
     // 936800
     // color: "#594000",
     {
-      title: "High stuff turnover",
+      title: "High staff turnover",
       value: props.highStaffTurnOver,
       color: "#916800",
     },

@@ -357,7 +357,7 @@ const App = () => {
                   </thead>
                   <tbody className=" align-baseline">
                     <tr>
-                      <th scope="row">High Stuff Turnover</th>
+                      <th scope="row">High Staff Turnover</th>
                       <td>
                         <img
                           src={
